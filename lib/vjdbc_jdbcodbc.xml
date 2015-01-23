@@ -1,0 +1,3 @@
+<vjdbc-configuration>
+  <connection id="testdb" driver="oracle.jdbc.driver.OracleDriver" user="bomcbp" password="bomcbp" url="jdbc:oracle:thin@10.10.1.114:1521:bomc"/>
+</vjdbc-configuration>
